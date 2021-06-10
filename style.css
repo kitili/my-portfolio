@@ -1,0 +1,53 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(0, 0, 0, 0.541);
+}
+
+.banner .row {
+    height: 550px;
+}
+.banner img{
+    vertical-align: middle;
+    height: auto;
+}
+.banner h2 {
+    margin-top: 40%;
+    color: crimson;
+}
+.banner h3 {
+    color: ghostwhite;
+}
+.banner p {
+    color: ghostwhite;
+    font-size: 25px;
+}
+.aboutme .row{ 
+    height: 400px;
+}
+.aboutme h2{ 
+    color: ghostwhite ;
+    text-align: center;
+}
+.aboutme p{ 
+    color: ghostwhite;
+    text-align: center;
+}
+.whyprogramming h2{
+    color: ghostwhite;
+    text-align: center;
+}
+.whyprogramming p{
+    color: ghostwhite;
+    text-align: center;
+}
+.email h2{
+    color: gold;
+}
+.myskills h2{
+    color: ghostwhite;
+    text-align: center;
+}
+.education h2{
+    color: ghostwhite;
+    text-align: center;
+}
